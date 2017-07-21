@@ -2,6 +2,8 @@
 
 This is awesome
 
-and some
+and some -- edited this line on update-readme
 
-edit on update-readme branch
+added line on update-readme branch
+
+updated locally
