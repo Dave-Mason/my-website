@@ -2,4 +2,4 @@
 
 This is awesome
 
-updates on master on github beforr rebase
+updates on master on github before rebase
